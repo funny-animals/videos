@@ -239,24 +239,5 @@ stroke-linejoin:miter;
 //stroke-opacity:1;
 }
 
-.single-product p {
-  display: none;
-  width: 255px;
-  height: 10px;
-  background-color: #000000;
-  border: 1px solid #ccc;
-  padding: 10px;
-  z-index: 55;
-}
-.single-product:hover p {
-  display:block;
-  position:relative;  
-  z-index: 55;
-  top: 170px;
-  left: 15px;
-  border: none;
-  text-align: center;
-  color: #00000;
-  opacity:0.7;
-}
+
  
