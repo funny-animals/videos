@@ -172,3 +172,27 @@
   z-index: 1;
   height: 100%;
   width: 100%; }
+
+
+  /* button playing */
+  .container-play {
+    position: absolute;
+    text-align: center;
+    margin: 97px 135px;
+    width: 80px;
+  }
+  
+  
+
+  .img-fluid:hover {
+    margin: 10px 0px;
+    outline: none;
+    border-color: #FFA500;
+    box-shadow: 0 0 15px #FFA500;
+  }
+
+  .single-product-a:hover h6{
+
+    color: #FFA500;
+  }
+ 
